@@ -40,3 +40,5 @@ Porážka jednoho hráče znamená, že již nesmí pokračovat v souboji a dost
 Každý hráč má vlastní balíček o `X` kartách. Karty reprezentují akce v boji (útoky, obrana, efekty). Hráč si na začátku svého tahu líže `X` počet karet (`vstupuje do počtu i iniciativa?`) a z nich vybírá co hraje.
 
 Každá karta má pevně daný základní efekt (útok, obrana, efekt (heal apod.)). Některé karty mají i hod kostkou. Kostka ovšem neurčuje zda akce uspěje, ale modifikuje její sílu nebo efekt.
+
+test
