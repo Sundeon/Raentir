@@ -74,8 +74,6 @@ Porážka hráče znamená, že dostane negativní nebo speciální trait (zvole
 * **Vzkříšení**: Při vzkříšení hráči ožijí na posledním záchytném bodě.
   
   + **Záchytný bod**: Vytváří hráči dle "přesvědčení" (povinný speciální trait) buď "obětováním" nebo "rozjímáním". Hráči, který takový bod vytvořil se přidá dočasný negativní trait (tento má vypravěč u sebe).
-    
-    
 + **Shopnost vypravěče PÁKA**: Pakliže má vypravěč na své kartě schopnost Páky, může ji ve svém tahu aktivovat. V tom případě se skupina musí vzdát, jinak poražená postava zemře nadobro. Vypravěč tuto schopnost využívá jako RP nástroj v případě nevyváženého souboje nebo postupu v příběhu.
 
 ###### Vítězství
@@ -113,8 +111,6 @@ Utratit je lze ihned a nebo si je nechat na později:
 
 - Odstranění karty z vlastního balíčku = 1 bod
 
-
-
 #### Kostky
 
 Kostky slouží jako variace výsledku. Standardně se používá d6, ale může se objevit také d12. Hodnota na kostce se používá přímo.
@@ -141,13 +137,9 @@ Hra se stříédá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci,
 
 ###### GAMBLE
 
-- Max. 1x v balíčku
-
-- Použitelná pouze po porážce, ve svém tahu
-
-- Hod d12: 9-12 -> návrat do hry
-
-- Návrat = 0 životů, hraje normálně, další porážka = porážka bez GAMBLE šance
+| Počet v draftu | Max. počet v balíčku | Podmínka                                 | Efekt                                                                       | Hod                        | Typ |
+|:--------------:|:--------------------:|:----------------------------------------:| --------------------------------------------------------------------------- | -------------------------- | --- |
+| x              | 1                    | Použitelná pouze po porážce ve svém tahu | Návrat = 0 životů, hraje normálně, další porážka = porážka bez GAMBLE šance | d12: 9-12 = EFEKT "Návrat" |     |
 
 #### Karty protivníka
 
@@ -166,3 +158,5 @@ Hra se stříédá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci,
 #### NEGATIVNÍ
 
 #### SPECIÁLNÍ
+
+###### Povinné
