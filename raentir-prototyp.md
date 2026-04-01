@@ -24,6 +24,12 @@
 
 - Vytvořena kostra pravidel
 
+**0.0.3**
+
+- Upravena struktura
+
+- Přidány karty a traity
+
 ---
 
 ## PRAVIDLA
