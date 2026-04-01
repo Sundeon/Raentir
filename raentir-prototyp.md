@@ -117,7 +117,7 @@ Utratit je lze ihned a nebo si je nechat na později:
 
 #### Kostky
 
-Kostky slouží jako variace výsledku. Standardně se používá d6, ale může se objevit také d12. Hodnota na kostce se používá přímo — nepřevádí se na bonus.
+Kostky slouží jako variace výsledku. Standardně se používá d6, ale může se objevit také d12. Hodnota na kostce se používá přímo.
 
 Používají se taktéž jako vypravěčův nástroj pro rozhodnutí a souboje. `Toto bude potřeba lépe specifikovat (např. hráč má trait na přesvědčování - háže k tomu vypravěč?)`
 
