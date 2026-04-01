@@ -24,7 +24,7 @@
 
 - Vytvořena kostra pravidel
 
-**0.0.3**
+###### v**0.0.3**
 
 - Upravena struktura
 
@@ -63,7 +63,7 @@ Jednodušší než hráči. Nemají plnohodnotný balíček. Všichni nepřátel
 
 ###### Tah
 
-Ve svém tahu hráč lízne `X` karet ze svého balíčku do ruky a zahraje `X` počet z nich. Vyhodnotí jejich efekt, případně hází kostkami. Na konci svého tahu musí hráč odhodit všechny (pakliže trait neříká jinak) své nepoužité karty do odhazovacího balíčku. Pakliže hráč svůj příští tah nemůže líznout `X` karet, odhodí vše do svého balíčku a zamíchá ho. Poté hraje vypravěč za nepřítele.
+Ve svém tahu hráč lízne 5 karet ze svého balíčku do ruky a zahraje libovolný počet z nich. Vyhodnotí jejich efekt, případně hází kostkami. Na konci svého tahu musí hráč odhodit všechny (pakliže trait neříká jinak) své nepoužité karty do odhazovacího balíčku. Pakliže by hráč svůj příští tah nemohl líznout do 5ti karet, protože mu v balíčku nezbývají, odhodí vše do svého balíčku a zamíchá ho. Poté hraje vypravěč za nepřítele. 
 
 Vypravěč se hráče snaží porazit dle své speciální karty nepřítele a pokud se mu to podaří, přichází porážka hráče.
 
@@ -117,7 +117,7 @@ Utratit je lze ihned a nebo si je nechat na později:
 
 #### Kostky
 
-Kostky slouží jako variace výsledku. Standardně se používá d6, ale může se objevit také d12. `Zatím jsem se nerozhodl, zda se převádí na bonus nebo přímo z toho co pande.`
+Kostky slouží jako variace výsledku. Standardně se používá d6, ale může se objevit také d12. Hodnota na kostce se používá přímo — nepřevádí se na bonus.
 
 Používají se taktéž jako vypravěčův nástroj pro rozhodnutí a souboje. `Toto bude potřeba lépe specifikovat (např. hráč má trait na přesvědčování - háže k tomu vypravěč?)`
 
