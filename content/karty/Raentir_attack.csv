@@ -1,0 +1,4 @@
+Jméno,Typ,Dice,AbilityName,Efekt,Text2,Image,RP,Base
+Rezavý meč,Útočná,,Útok,,,,,3
+Bouřlivý zámach,Útočná,"d6: 1-3: žádný efekt / 4-5: ""Zásah"" / 6: ""Kritický zásah""",Riskantní útok,Zásah: +2 dmg. Kritický zásah: +4 dmg,,,,1
+Trn z křoví,Útočná,,Přesný zásah,"Pokud máš alespoň 1 Repurposed žeton, +1 dmg navíc",,,,2

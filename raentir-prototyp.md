@@ -36,6 +36,14 @@
 
 - Rozšířeny pravidla
 
+###### v0.1.0 (playtest_alpha) *4.4.2026*
+
+- Přidány templaty všech typů herních karet
+
+- Popsány funkce traitů
+
+- Vytvořen **playtest** balíček základních karet, nepřítele a dvou postav
+
 ---
 
 ## PRAVIDLA
@@ -53,7 +61,7 @@ Důležité je, že má nástroje, jak reagovat na hráče i mimo čistý boj. M
 
 #### Postavy
 
-Nejsou definované a tvořené jako v klasickém D&D, ale pomocí (pasivních) traitů (pozitivní/negativní/speciální). Tyto traity - malé kartičky - ovlivňují chování postavy vůči světu a naopak. Jsou jak soubojové tak příběhové.
+Nejsou definované a tvořené jako v klasickém D&D, ale pomocí traitů (pozitivní/negativní/speciální). Tyto traity - malé kartičky - ovlivňují chování postavy vůči světu a naopak. Jsou jak soubojové tak příběhové.
 
 #### Souboje
 
@@ -77,7 +85,7 @@ Po tahu posledního hráče (dle iniciativy) se posouvá **fáze nepřítele**. 
 
 ###### Tah
 
-Ve svém tahu hráč lízne 5 karet ze svého balíčku do ruky a zahraje libovolný počet z nich. Vyhodnotí jejich efekt, případně hází kostkami. Na konci svého tahu musí hráč odhodit všechny (pakliže trait neříká jinak) své nepoužité karty do odhazovacího balíčku. Poté hraje vypravěč za nepřítele.
+Ve svém tahu hráč lízne **5** karet ze svého balíčku do ruky a zahraje libovolný počet z nich. Vyhodnotí jejich efekt, případně hází kostkami. Na konci svého tahu musí hráč odhodit všechny (pakliže trait neříká jinak) své použité i nepoužité karty do odhazovacího balíčku. Poté hraje vypravěč za nepřítele.
 
 **Postup:**
 
@@ -123,7 +131,7 @@ Ve svém tahu hráč lízne 5 karet ze svého balíčku do ruky a zahraje libovo
       
       3. Efekty se vyhodnotí
 
-5. **Repurposed**: Na konci tahu hráč odhodí všechny nepoužité karty. Za každou odhozenou kartu dostane 1 Repurposed žeton. Žetony sbírá po celou dobu souboje. Kdykoliv zahraje **Útočnou kartu**, může přidat libovolný počet žetonů a zvýšit její **damage o +1 ** za žeton. **Tyto žetony se na konci celého souboje resetují.**
+5. **Repurposed**: Na konci tahu hráč odhodí všechny karty z ruky. Za každou **nepoužitou** odhozenou kartu dostane 1 Repurposed žeton. Žetony sbírá po celou dobu souboje. Kdykoliv zahraje **Útočnou kartu**, může přidat libovolný počet žetonů a zvýšit její **damage o +1 ** za žeton. **Tyto žetony se na konci celého souboje resetují.**
 
 Vypravěč se hráče snaží porazit dle své speciální karty nepřítele a pokud se mu to podaří, přichází porážka hráče.
 
@@ -212,9 +220,7 @@ Hra se stříédá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci,
 
 ---
 
-## KARTY
-
-<img title="" src="file:///C:/Users/alfre/AppData/Roaming/marktext/images/2026-04-01-04-07-27-image.png" alt="" width="475">
+## Typy karet
 
 #### Útočné
 
@@ -228,7 +234,7 @@ Hra se stříédá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci,
 > 
 > Mají červenou barvu
 
-<img title="" src="file:///E:/Data/Raentir/Raentir%20(1)/content/karty/Útočné/Útočná%20karta%20template.png" alt="Útočná karta template.png" width="325">
+<img title="" src="content/karty/Playtest/Bouřlivý%20zámach.png" alt="Bouřlivý zámach.png" width="298">
 
 #### Obranné
 
@@ -240,7 +246,7 @@ Hra se stříédá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci,
 > 
 > Mají modrou barvu
 
-<img src="file:///E:/Data/Raentir/Raentir%20(1)/content/karty/Obranné/Obranná%20karta%20template.png" title="" alt="Obranná karta template.png" width="321">
+<img src="content/karty/Playtest/Stín%20v%20Prachu.png" title="" alt="Stín v Prachu.png" width="298">
 
 #### Speciální
 
@@ -250,11 +256,7 @@ Hra se stříédá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci,
 > 
 > Mají žlutou barvu
 
-<img src="file:///E:/Data/Raentir/Raentir%20(1)/content/karty/Speciální/Template_speciální.png" title="" alt="Template_speciální.png" width="314">
-
-###### Karty:
-
-Kostky osudu
+<img title="" src="content/karty/Playtest/Kostky%20osudu.png" alt="Kostky osudu.png" width="310">
 
 #### Záchranné
 
@@ -265,11 +267,19 @@ Kostky osudu
 > Lze je hrát ve střetu i odpoutání
 > Mají zelenou barvu
 
-<img src="file:///E:/Data/Raentir/Raentir%20(1)/content/karty/Záchranné/Záchranná%20karta%20template.png" title="" alt="Záchranná karta template.png" width="310">
+<img src="content/karty/Playtest/Ruka%20z%20Temnoty.png" title="" alt="Ruka z Temnoty.png" width="305">
 
-#### Karty protivníka
+#### Třídní karty
 
-<img title="" src="file:///C:/Users/alfre/AppData/Roaming/marktext/images/2026-04-01-04-07-59-image.png" alt="" width="811">
+> Mohou je používat pouze určené povolání
+> 
+> Mají bílou barvu
+
+<img src="content/karty/Playtest/Drtivý%20úder.png" title="" alt="Drtivý úder.png" width="305">
+
+#### Nepřátelské karty
+
+<img src="content/karty/Nepřátelské/Lesní_Troll.png" title="" alt="Lesní_Troll.png" width="426">
 
 ---
 
@@ -279,18 +289,22 @@ Kostky osudu
 > 
 > Jsou pasivní a aktivní
 > 
-> DM sleduje jaké traity hráči mají, hráči jsou povinni sledovat a hlásit efekty traitů, pakliže se mají vyhodnotit
-> 
-> `Limitní počet traitů? Asi ano.`
+> Vypravěč sleduje jaké traity hráči mají, hráči jsou povinni sledovat a hlásit efekty traitů, pakliže se mají vyhodnotit
 
-<img title="" src="file:///C:/Users/alfre/AppData/Roaming/marktext/images/2026-04-01-04-06-54-image.png" alt="" width="544">
+<img src="content/karty/Traity/Fyzické/Mechonoh.png" title="" alt="Mechonoh.png" width="404">
 
-#### POZITIVNÍ
+#### Typy traitů
 
-###### Euforie
+Traity se dělí na **permanentní** a **dočasné**.
 
-#### NEGATIVNÍ
+* **Permanentní**: Zůstávají napořád, definují postavu. Jsou předtištěné na character sheetu (hráč si je zaškrtne). Patří sem povinné traity (jako přesvědčení), povolání a zásadní události. Speciální traity od Vypravěče jsou také permanentní - ty má u sebe Vypravěč u přehledu o skupině.
 
-#### SPECIÁLNÍ
+* **Dočasné**: Kartičky na stole. Mají trvání (kola, hodiny, dny, do konce souboje...) a přirozeně odpadávají. Hráč může mít najednou **max. 5 dočasných traitů**. Pokud by dostal další, vybere si, který stávající zahodí.
 
-###### Povinné
+#### Skupiny dočasných traitů
+
+Dočasné traity se třídí do skupin pro snazší orientaci v zásobě:
+
+* **Soubojové** (Meč) — +dmg, -dmg, +obrana, blokování
+* **Fyzické** (Tělo) — Mechonoh, Otrávený, Zraněný, Posílený
+* **Mentální** (Oko) — Opilý, Vystrašený, Sou

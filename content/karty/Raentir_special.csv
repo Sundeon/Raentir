@@ -1,0 +1,5 @@
+Jméno,Typ,Dice,AbilityName,Efekt,Podmínka,Image,Footer
+Kostky osudu,Speciální,"d12: 9-12 = Efekt ""Návrat""",Gamble,"Návrat: Máš 0 životů a můžeš se znovu zapojit do boje. Pakliže znovu padneš, umíráš bez možnosti záchrany",Podmínka: Použitelná pouze po porážce ve svém tahu,https://i.imgur.com/d6lfdoj.png,"""Můžeš je hodit jen jednou, jejich výsledek se však dozvíš pouze když uspěješ..."" -Kardinel ze Saaru"
+Tichá chvíle,Speciální,,Koncentrace,Lízni 2 karty z balíčku. Jednu si nech a druhou odhoď.,,,
+Výsměch nepříteli,Speciální,,Provokace,Příští útok nepřítele cílí na tebe místo na jiného hráče. +1 blok navíc na tvou příští obrannou kartu.,Podmínka: Pouze ve Střetu,,
+END,,,,,,,

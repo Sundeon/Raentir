@@ -1,0 +1,6 @@
+Jméno,Typ,Dice,AbilityName,Efekt,Text2,Image,RP,Base,logo
+Drtivý úder,Válečník,,Rozmáchnutí,"Pokud tento útok sníží HP nepřítele pod polovinu, +2 dmg navíc",,,,4,https://i.imgur.com/aIgxOBU.png
+Bojový pokřik,Válečník,,Nezdolnost,Do konce tohoto kola máš +2 blok na všechny obranné karty,,,,,https://i.imgur.com/aIgxOBU.png
+Inspirující melodie,Bard,,Inspirace,Zvol spoluhráče — lízne 1 kartu navíc na začátku příštího tahu,,,,,https://i.imgur.com/TEh2VuO.png
+Rozptýlení,Bard,d6: 1-3: žádný efekt / 4-6: „Vedle“,Klamný tón,Vedle: Nepřítel má -2 útok příští kolo,,,,,https://i.imgur.com/TEh2VuO.png
+END,,,,,,,,,

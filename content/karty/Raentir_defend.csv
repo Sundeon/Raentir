@@ -1,0 +1,4 @@
+Jméno,Typ,Dice,AbilityName,Efekt,Text2,Image,RP,Base
+Dubový štít,Obranná,,Blok,,,,,3
+Stín v prachu,Obranná,,Úhyb,"Pokud zablokuješ veškerý damage, lízni 1 kartu navíc příští tah",,,,2
+END,,,,,,,,
