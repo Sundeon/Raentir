@@ -46,6 +46,14 @@
 
 - Přepsány pravidla pro dobírání karet, balíčky, souboje a další
 
+###### v0.1.2 - *8.4.2026*
+
+- Přidány staty (reprezentují permanentní traity - TODO)
+
+- Přidáno rozložení stolu
+
+- V content folder přidán prototyp deníku postavy
+
 ---
 
 # PRAVIDLA
@@ -67,7 +75,35 @@ Důležité je, že má nástroje, jak reagovat na hráče i mimo čistý boj. M
 
 ## Postavy
 
-Nejsou definované a tvořené jako v klasickém D&D, ale pomocí traitů (pozitivní/negativní/speciální). Tyto traity - malé kartičky - ovlivňují chování postavy vůči světu a naopak. Jsou jak soubojové tak příběhové.
+Nejsou definované a tvořené jako v klasickém D&D, ale jeednodušeji pomocí statů a traitů. Staty a Traity ovlivňují chování postavy vůči světu a naopak. Jsou jak soubojové tak příběhové.
+
+###### Staty
+
+- Postava má **6** statů rozdělených na Tělo a Mysl, které se používají **výhradně v RP**, ne v souboji.
+- Hráč při tvorbě postavy rozdělí body mezi staty (viz. Tvorba postavy). Rasa a povolání mohou přidat bonus na konkrétní stat.
+
+| Skupina | Stat    | Použití                              |
+| ------- |:------- | ------------------------------------ |
+| Tělo    | Síla    | fyzická akce, zastrašování, potyčky  |
+| Tělo    | Hbitost | plížení, úniky, reflexy              |
+| Tělo    | Výdrž   | odolávání únavě, bolesti a prostředí |
+| Mysl    | Rozum   | analýza, technika, věda              |
+| Mysl    | Vliv    | přesvědčování, lhaní, vedení         |
+| Mysl    | Vnímání | pozornost, intuice, odhalování lží   |
+
+###### Hod na stat
+
+Pakliže Vypravěč rozhodne o tom, že daná akce/situace vyžaduje Hod na stat, pak hráč hodí a vyhodnotí **d20 + příslušný stat + Dočasný trait** dle prahu:
+
+- 1-6: Neúspěch
+- 7-13: Rozhodne Vypravěč (komplikace, částečný úspěch...)
+- 14-20: Úspěch
+
+###### Deník postavy
+
+Každá postava má svůj deník, který si hráč vypracuje při tvorbě postavy.
+
+`Přidat obrázek`
 
 ---
 
@@ -108,16 +144,21 @@ Ve svém tahu (při Střetu) hráč lízne **5** karet z **Variabilního balíč
 Souboj se odehrává ve dvou zónách: **Blízko** a **Daleko**. Zóny určují, kteří nepřátelé na hráče útočí a jakým způsobem:
 
 1. **Blízko**
+   
    1. Hráč je v přímém kontaktu s nepřítelem. V této zóně můžou na hráče útočit **maximálně 3 nepřátelé**. Všichni blízcí nepřátelé útočí na hráče, pokud je ve Střetu. Jejich damage se **sečte do jednoho čísla** a hráč reaguje obrannou reakcí proti tomuto celkovému damage.
    2. Hráč si v akční fázi vybere jednoho nepřítele Blízko jako svůj **primární cíl**. Na toho směřuje své karty.
+
 2. **Daleko**
+   
    1. Nepřátelé v zóně Daleko na hráče přímo neútočí, pokud nemají **střelecký útok**. Střelecký útok vždy míří na hráče, který je **právě na tahu** (ve Střetu). Hráč se proti němu brání normálně - damage se přičte k damage z blízkých nepřátel a brání se dohromady.
+
 3. **Útěk z boje**
+   
    1. Hráči či nepřátelé mohou utéci z boje, když opustí zónu Daleko. Podmínkou je, že tak musí učinit vždy celá družina či nepřátelé dohromady ("You must gather your party...").
-
-O rozmístění rozhoduje Vypravěč či aktivita hráčů dle situace. Zóna Blízko má 3 metry, od ní dále pokračuje zóna Daleko až do hranice Útěk z boje.
-
-Hráč se může **přesouvat**. Přesun funguje pouze při **Odpoutání**. Vypravěč a hráči popisují, jak se hráč přesouvá (přeběhne, přeskočí, proplíží se...). Může přesun zakázat nebo ztížit nebo jinak upravit, pokud to dává smysl v kontextu.
+   
+   O rozmístění rozhoduje Vypravěč či aktivita hráčů dle situace. Zóna Blízko má 3 metry, od ní dále pokračuje zóna Daleko až do hranice Útěk z boje.
+   
+   Hráč se může **přesouvat**. Přesun funguje pouze při **Odpoutání**. Vypravěč a hráči popisují, jak se hráč přesouvá (přeběhne, přeskočí, proplíží se...). Může přesun zakázat nebo ztížit nebo jinak upravit, pokud to dává smysl v kontextu.
 
 ###### Postup:
 
@@ -157,11 +198,11 @@ Vypravěč se hráče snaží porazit dle své speciální karty nepřítele a p
 
 Porážka nastane, když HP hráče klesne na 0 nebo níže.
 
-Hráč je **poražen** - dostane negativní nebo speciální trait (dle karty nepřítele). Ve svém tahu takový hráč nesmí lízat nové karty. Může hrát pouze kartu "Kostky osudu". Spoluhráči mohou poraženého zachránit `Záchrannou kartou`. Pakliže padne celá výprava mohou si hráči zvolit ukončení hry nebo "vzkříšení".
+Hráč je **poražen** - dostane negativní nebo speciální trait (dle karty nepřítele). Ve svém tahu takový hráč nesmí lízat nové karty. Může hrát pouze kartu "Kostky osudu". Spoluhráči mohou poraženého zachránit `Záchrannou kartou`. Pakliže padne celá výprava mohou si hráči zvolit ukončení hry nebo `"vzkříšení".`
 
-* **Vzkříšení**: Při vzkříšení hráči ožijí na posledním záchytném bodě.  
+* `**Vzkříšení**: Při vzkříšení hráči ožijí na posledním záchytném bodě.  `
   
-  * **Záchytný bod**: Vytváří hráči dle "přesvědčení" (povinný speciální trait) buď "obětováním" nebo "rozjímáním". Hráči, který takový bod vytvořil se přidá dočasný negativní trait (tento má vypravěč u sebe).
+  * `**Záchytný bod**: Vytváří hráči dle "přesvědčení" (povinný speciální trait) buď "obětováním" nebo "rozjímáním". Hráči, který takový bod vytvořil se přidá dočasný negativní trait (tento má vypravěč u sebe).`
 
 * **Schopnost vypravěče PÁKA**: Pakliže má vypravěč na své kartě nepřítele schopnost Páky, může ji ve svém tahu aktivovat. V tom případě se skupina musí vzdát, jinak poražená postava zemře nadobro. Vypravěč tuto schopnost využívá jako RP nástroj v případě nevyváženého souboje nebo postupu v příběhu.
 
@@ -229,6 +270,33 @@ Používají se taktéž jako vypravěčův nástroj pro rozhodnutí a souboje. 
 
 ---
 
+## Rozložení stolu
+
+`Přidat obrázek`
+
+Vypravěč (za zástěnou):
+
+- Karty nepřítele
+- Listy hráčů s poznámkami
+- Poznámky a příběh
+- Pravidla
+- Kostky
+
+### Každý hráč
+
+- Deník postavy
+- Konstantní balíček (5 karet "spell bar")
+- Variabilní balíček
+- Odhazovací balíček
+- Dočasné traity (kartičky vedle deníku)
+- Karty v ruce (z variabilního balíčku)
+
+### Střed stolu
+
+- Bojiště (mapa, figurky, zahrané karty)
+
+---
+
 ## Průběh hry
 
 Hra se střídá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci, ve které se hráči nachází, ti reagují slovně a přitom mohou využít své traity. Pokud dojde ke konfliktu, přechází se do souboje, který je řízen kartami a kostkami. Výsledek se promítne do příběhu a zlepšování postav a hra pokračuje dál.
@@ -242,7 +310,7 @@ Hra se střídá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci, v
 
 ---
 
-# Typy karet
+# TYPY KARET
 
 ## Útočné
 
@@ -317,10 +385,10 @@ Hra se střídá mezi vyprávěním a mechanikou. Vypravěč popisuje situaci, v
 
 ## Typy traitů
 
-Traity se dělí na **permanentní** a **dočasné**.
+Traity se dělí na `**permanentní** `a **dočasné**.
 
-* **Permanentní**: Zůstávají napořád, definují postavu. Jsou předtištěné na character sheetu (hráč si je zaškrtne). Patří sem povinné traity (jako přesvědčení), povolání a zásadní události. Speciální traity od Vypravěče jsou také permanentní - ty má u sebe Vypravěč u přehledu o skupině.  
-* **Dočasné**: Kartičky na stole. Mají trvání (kola, hodiny, dny, do konce souboje...) a přirozeně odpadávají. Hráč může mít najednou **max. 5 dočasných traitů**. Pokud by dostal další, vybere si, který stávající zahodí.  
+* **`Permanentní**: Zůstávají napořád, definují postavu. Jsou předtištěné na character sheetu (hráč si je zaškrtne). Patří sem povinné traity (jako přesvědčení), povolání a zásadní události. Speciální traity od Vypravěče jsou také permanentní - ty má u sebe Vypravěč u přehledu o skupině.  `
+* **Dočasné**: Kartičky na stole. Přirozeně odpadávají - po každém souboji nebo odpočinku hráč odhodí poslední trait do hromádky traitů. Hráč může mít najednou **max. 5 dočasných traitů**. Pokud by dostal další, zahodí poslední trait do hromádky traitů.
 
 ## Skupiny dočasných traitů
 
