@@ -40,9 +40,63 @@ DNES je rok 733 (?).
 
 prototyp
 
-## SVĚT
+## SVĚT a LOKACE
 
-**TRHLINA**: Mýtická trhlina je místem uprostřed Širých vod, kam se vypravují mnohé družiny s cílem zjistit podstatu bytí, prozkoumávat její zákoutí a tunely, vyhledávat vzácné minerály v nádherných a kolosálních panoramatech, které tento podivný a nebezpečný kraj v nížinách uprostřed vod skýtá. Je oddělena mlhavou bouří, ale vodní vír do ní nevstoupí, naopak po krajích Trhliny stoupá směrem k nebi. Na kraji Trhliny je malé město Draetir různých obyvatel, nejčastěji družin. Přes něj se do Trhliny vstupuje. Uvnitř Trhliny jsou jak odměny, tak mnoho bájných stvůr.
+#### **Trhlina**:
+
+Mýtická trhlina je místem uprostřed Širých vod, kam se vypravují mnohé družiny s cílem zjistit podstatu bytí, prozkoumávat její zákoutí a tunely, vyhledávat vzácné minerály v nádherných a kolosálních panoramatech, které tento podivný a nebezpečný kraj v nížinách uprostřed vod skýtá. Je oddělena mlhavou bouří, ale vodní vír do ní nevstoupí, naopak po krajích Trhliny stoupá směrem k nebi. Na kraji Trhliny je malé město Draetir různých obyvatel, nejčastěji družin. Přes něj se do Trhliny vstupuje. Uvnitř Trhliny jsou jak odměny, tak mnoho bájných stvůr.
+
+- Úzký, ale dostatečně široký kaňon táhnoucí se od severu k jihu mezi Saarem a Yggdenem
+- Extrémně hluboká, na dno se dostal pouze Raen a jeho družina
+- "Patra" nejsou pravidelná, prolínají se v síti tunelů, dungeonů a pláních
+- Různá podnebí, fyzikální zákony se ohýbají
+- Arkánní stvoření spontánně vzniklá z Elementu
+- Láká, mění, nepouští
+
+**Draetir**:
+
+Přístavní město na skalním výběžku u okraje Trhliny. Pojmenované po Drae. Založeno circa roku 370.
+
+- Jediný známý přístupový bod do Trhliny
+- Výtahy, ferraty, vzducholodě
+- Kosmopolitní: Téoté, Aardenští, Lidé, dobrodruzi, obchodníci...
+- Polovina města visí nad propastí
+
+---
+
+#### Tulden (lidsky "Desencie"):
+
+**Port'desant (později Pordesant):**
+
+- Hlavní Lidské město na jižním Tuldenu
+- Architektura: starověký Řím se sci-fi twistem
+- Zprvu provizorní (rybolov jako hlavní obživa), později plnohodnotné město
+- Podzemní těžba surovin (tajemství Lidí)
+- Nesdílené technologie nebo jen primitivní za vysoké ceny
+
+**Památník třetí lodi**:
+
+- Památník na zamrzlé stepi severního Tuldenu
+- Očištěn a upraven, dominanta krajiny viditelná z velké dáli
+- Symbol ceny, kterou stál přílet na Svět
+
+---
+
+#### SAAR
+
+---
+
+#### YGGDEN
+
+---
+
+#### KARKAT
+
+---
+
+#### GASTIE
+
+---
 
 ### RASY
 
@@ -66,7 +120,7 @@ Tarogg nikdy neexistoval jako bytost. To, co se stalo ve skutečnosti, byl katas
 
 Je to velitel/generál vojsk, která obléhají Yggden. Je to muž téotské rasy ve 50+ letech (Lidských kolem 40) a jako velitel vojsk se stal až po pádu Drae, protože hodně generálu umřelo ve víru. Je loajální Saaru a obdivuje ho. Nikdy o Saaru jako impériu neměl pochybnosti.
 
-- Téot, Saarský urozený rod
+- Téot
 - 50+ téotských let (ekvivalent ~40 lidských)
 - Velitel hlavního proudu, povýšen po ztrátě generálů ve víru
 - Stratég, loajální Saaru, přesvědčený o správnosti Saarského systému
@@ -75,10 +129,11 @@ Je to velitel/generál vojsk, která obléhají Yggden. Je to muž téotské ras
 
 **Vennera z Yggdenu:**
 
-Dcera krále Aduna Gatta II. zvaného Cvrček  (v Yggdenu měli příjmení pouze muži). Je velmi nadaná v politice, po válce vystupuje po boku Salvara jako poradkyně pro občanské soužití. Prchala s otcem, protože se královská rodina obávala, že Yggden za čas padne nebo vyhladoví. Někde při útěku je chytl Salvar se svou jednotkou a zajal. To byl počátek konce války. Vennera je celkově silná žena a oba jsou velice působivé duo v politice po válce. Nejsou zamilovaný páreček, ale dospělý a racionální vztah. Vennera umírá těhotná dříve než Salvar na atentát Aardenského atentátníka.
+Dcera krále Aduna Gatta II. (v Yggdenu měli příjmení pouze muži). Je velmi nadaná v politice, po válce vystupuje po boku Salvara jako poradkyně pro občanské soužití. Prchala s otcem, protože se královská rodina obávala, že Yggden za čas padne nebo vyhladoví. Někde při útěku je chytl Salvar se svou jednotkou a zajal. To byl počátek konce války. Vennera je celkově silná žena a oba jsou velice působivé duo v politice po válce. Nejsou zamilovaný páreček, ale dospělý a racionální vztah. Vennera umírá těhotná dříve než Salvar na atentát Aardenského atentátníka.
 
 - Téotka, dcera krále Aduna Gatta II. (Cvrčka)
 - Politicky nadaná, přímá, silná
+- 40+ téotských let
 - Zajata při útěku z Yggdenu
 - Postupně pochopí, že Saarský systém je lepší než Yggdenský feudalismus, a nenávidí se za to
 - Po válce poradkyně pro občanské soužití, nenáviděna Aardenskými
@@ -107,6 +162,22 @@ Gastové chtěli stvořit "golema", hlavního Elementa, podmanit si svět. Vymkl
 
 Aardenský kluk s Gastovskou krví (proto citlivý na arkánu), čímž mohl vnímat věci v Trhlině, které ostatní ne. Měl Kardinála jako průvodce (i když nevěděl, co nebo kdo Kardinál je). Sestoupil nejhlouběji, založil Raentir na dně u zbytků Drae/Elementu. Pro Svět zmizel, stal se legendou. Mladý tělem, starý duší. Není moudrý, je zoufalý. Chce ven, chce aby svět věděl, chce aby Raentir žil. Je sobecký? Možná. Ale to je lidské. Staletí v izolaci, legenda nahoře, nikdo dole.
 
+**Kaetar III. Veliký**:
+
+- Téot, rod Velikých (sjednotitelé Saaru)
+- Politik ve vojenské radě Byrotria
+- Ultra-konzervativec, odpůrce "změkčení" Saarské kultury
+- Organizátor nelegitimního konfliktu s Lidmi
+- Odhalen, uvězněn, spáchal sebevraždu
+
+**Téasa z rodu Dlouhosrstých**:
+
+- Téotka, vzdáleně příbuzná Salvarovi
+- Mladá politička, dvojitá agentka
+- První Téotka schopná plnohodnotné komunikace s Lidmi
+- Po konfliktu ambasadorka, později spisovatelka memoárů
+- Její knihy jsou klíčovým historickým dokumentem
+
 ---
 
 ## PŘÍBĚHY CHRONOLOGICKY
@@ -117,9 +188,9 @@ Z oceánu povstal Tarogg. Velkolepý úkaz bohů a ztělesnění jejich moci.
 
 ---
 
-### PŘÍBĚH O VÁLCE SAARU S YGGDENEM A LÁSCE SALVARA A PRINCEZNY VENNERY
+### PŘÍBĚH O VÁLCE SAARSKÉ A LÁSCE SALVARA A PRINCEZNY VENNERY
 
-wip: Ještě bych měl dopsat konkrétního antagonistu, generála z tažení na Aarden
+wip: Ještě bych měl dopsat konkrétního antagonistu, generála z tažení na Aarden, to později
 
 Rok 0–6 po Záři (dle Nového Saarského letopočtu, který byl zaveden mnohem později)
 
@@ -155,7 +226,7 @@ Vennera začne více mluvit se Salvarem. Ne z lásky, ale z nutnosti. Je politic
 
 Salvar přijme rozhovory, protože je inteligentní. Ví, že Yggden padne dříve nebo později, ale ví taky, že dobytí silou bez politického řešení je nestabilní. Saar nechce jen území - chce fungující provincii. A k tomu potřebuje spolupráci všech. Vennera je princezna a její slovo má váhu. Navíc někdy v této době je Adun již na smrtelné posteli neschopen politiky.
 
-Tady začíná jejich skutečný příběh. Ne romantický nýbrž intelektuální. Dva lidé na opačných stranách, kteří si postupně ukazují své světy a své pohledy na válku, život a Svět.
+Tady začíná jejich skutečný příběh. Ani ne tak romantický jako intelektuální. Dva lidé na opačných stranách, kteří si postupně ukazují své světy a své pohledy na válku, život a Svět.
 
 Salvar Venneře vysvětluje Byrotrium. Tři rady (vojenská, obchodní, občanská), kde žádná nemá absolutní moc. Systém bez kast, založený na obchodu a zásluhách. Žádná šlechta. Žádné dědičné tituly. Venneřin otec je král, protože se narodil jako syn krále. V Saaru by byl jen dalším občanem. Vennera také zjišťuje, že je značně povrchní. Vyrůstala jako šlechtična, poddaní ji veskrze nezajímali a s jejich světem, otroctvím a dalšími problémy neměla moc zkušeností, i když je obecně vnímala jako své vlastní a znala je.
 
@@ -205,9 +276,181 @@ Nikdo neví, co se stalo s jeho kocábkou. V Saaru je uctíván jako hrdina. V Y
 
 ---
 
-### [VZNIK TRHLINY]
+### Vznik Trhliny
 
-### [APOKALYPSA, PŘÍLET BOHŮ VE VESMÍRNÝCH KORÁBECH]
+wip: lépe popsat jak vypadá Draetir, frakce v Trhlině a jak vypadá Raentir
+
+Rok 0–370 po Záři.
+
+##### Vír (rok 0–30)
+
+Když Saarská flotila prorazila hruď elementála Drae, ze srdce se vyzářilo obrovské světlo, Záře, která na okamžik oslepila celé Širé vody. Drae se zhroutil sám do sebe. Jeho tělo, stvořené z hmoty, kterou žádná bytost ve Světě nedokázala pojmenovat, se začalo stahovat do středu, jako by samo sebe pohlcovalo. Na hladině zůstal obří vír, který pohltil brigádní loď, většinu Saarských generálů a zbytky božského artefaktu. Jeden námořník skočil do Draeho srdce. Přežil. O tom ale nikdo nevěděl.
+
+V prvních letech po Záři byl vír jen nebezpečím, kterému se lodě vyhýbaly. Saarští měli jiné starosti, obléhali Yggden, drancovali Aarden. Širé vody byly jen překážka, která už byla překonána. Ale námořníci, kteří pluli kolem, si všímali změn. Vír se neumenšoval, naopak pomalu rostl. Voda v jeho okolí se chovala podivně. Stoupala. Ne jako vlny, ale jako by se celé moře kolem víru ohýbalo směrem vzhůru, jako by gravitace v tom místě přestala platit.
+
+Kolem roku 10 se v okolí víru začala usazovat hustá mlha. Ne obyčejná mlha, ale něco těžšího, něco co mělo barvy, které mlha nemá. Lodě, které propluly příliš blízko, hlásily podivné zvuky, vibrace trupu a pocity, které posádky nedokázaly pojmenovat. Někteří námořníci tvrdili, že v mlze viděli tvary. Jiní, že slyšeli hlasy. Většina to přisuzovala pověrám. Všichni to místo objížděli.
+
+##### Rozpad (rok 30–100)
+
+Element, hmota Draeho těla, klesal po víru pomalu ke dnu Širých vod. Reagoval s prostředím, s vodou, se skalním dnem, se samotnou zemí pod oceánem. Tam, kde se Element dotkl mořského dna, se skála měnila. Ne rozpadala, ale přetvářela. Jako by Element přepisoval fyzikální zákony kolem sebe.
+
+Kolem roku 30 se na hladině objevily první trhliny. Ne ve vodě, ale v zemi. Ostrůvky skal, které dříve neexistovaly, se vynořily z moře jen proto, aby se vzápětí rozlomily a propadly. Mořské dno se poddávalo. Pomalu trvajícím pomalým pohybem, ale rychleji, než by to kdy dokázala příroda (když Gastové kdysi "stvořili Tarogga", trvalo to velice dlouho, ale tentokrát to šlo rychleji, protože Element byl koncentrovanější, menší, ale intenzivnější).
+
+Zem se rozpadala od severu k jihu, v úzkém pásu mezi Saarem a Yggdenem. Jako by někdo řezal nožem po mapě. To nebyla náhoda. Element klesal po linii, kde bylo mořské dno nejtenčí, kde tektonické vrstvy byly nejslabší. Příroda si našla cestu nejmenšího odporu.
+
+Kolem roku 44, kdy na Tulden přistáli Bohové ve svých vesmírných korábech, byla Trhlina už viditelná. Dlouhý, úzký pás mlhy a zvláštní vody, táhnoucí se stovky kilometrů od severu k jihu. Nikdo se k ní nepřibližoval. Svět měl jiné problémy, na Tuldenu se střetávaly civilizace s bytostmi z jiného světa. Trhlina byla jen další podivnost v době, která byla plná podivností. Svět měl za to, že přišla Apokalypsa.
+
+##### Proměna (rok 100–340)
+
+V průběhu staletí se Trhlina prohlubovala. Element se usadil hluboko pod hladinou, na dně propasti, které nikdo nedokázal dohlédnout. Kolem něj začal vznikat svět, který neměl obdobu. Arkána, ta síla, kterou Gastové kdysi ovládali a která Elementu dávala jeho vlastnosti, prosakovala do stěn Trhliny, do vzduchu, do samotného prostoru. A tam, kde byla arkána, tam se zákony přírody ohýbaly.
+
+Trhlina je kaňon. Úzký, ale dostatečně široký na to, aby v něm existovala podnebí, která by se vedle sebe normálně nevyskytovala. V horních patrech, blízko hladiny Širých vod, je vítr a chlad, mlha a vodopády, které padají ze stěn, kde voda stoupající podél okrajů Trhliny konečně ztrácí svou vzdorující gravitaci a řítí se zpět dolů. Voda ale na dno nedoteče. Někde v půlce cesty se rozptýlí v mlze, vsákne do skal, zmizí v tunelech. V Trhlině není moře. Jsou tam jezírka, vodopády, potoky, ale žádná velká vodní plocha. Voda kolem Trhliny stoupá směrem k nebi, jako by ji srdce Drae odpuzovalo.
+
+Hlouběji se podnebí mění. Jsou tam vrstvy, které se prolínají, splétají v tunelech a chodbách, v obřích dungeonech a na širých pláních, kde by člověk zapomněl, že je pod zemí, kdyby nad ním nebyly stropy z krystalické skály prosvětlené arkánním svitem. Některá místa jsou horká a vlhká jako tropický prales. Jiná studená a pustá jako horský průsmyk. A některá nedávají vůbec žádný smysl, prostory, kde se světlo láme špatně, kde zvuky přicházejí ze špatných směrů, kde se vzdálenosti zdají jiné, než jsou.
+
+Je to místo, které láká a odpuzuje zároveň. Bytosti, které tam vstoupí, cítí tah. Ne fyzický, ale mentální. Něco je volá hlouběji. Někteří odvážlivci, kteří propluli do Trhliny, se vrátili. Jiní ne. A ti, kdož se vrátili mluvili o vizích, které viděli, o bájných tvorech, o zvucích a barvách, které neexistují na povrchu. Většina jim nevěřila.
+
+Arkána, prosakující z Elementu, dala vzniknout životu. Ne obyčejnému, ale arkánnímu. Stvoření, která nebyla ani zvířata, ani rostliny, ani kameny, ale něco mezi tím. Bytosti z čisté arkány. Tvary, které se měnily podle toho, kdo se na ně díval. Nebezpečné, krásné, nepředvídatelné. Trhlina nebyla jen geologický útvar. Byla ekosystém, který se řídil pravidly, které nikdo z povrchu nechápal.
+
+A dole v hloubi Trhliny, na samém dně, ležely zbytky srdce Drae. Stále zářily. Stále pulsovaly. A kolem nich, na ostrově z přetvořené skály, žily bytosti, které v blízkosti Elementu přestaly stárnout.
+
+##### Stabilizace (rok ~340)
+
+Někdy kolem roku 340 se Trhlina uklidnila. Vír na povrchu zanikl, mlha se ustálila, zemětřesení přestala. Element dosáhl rovnováhy. Sám o sobě, bez zásahu, vydal vše, co mohl, a teď jen tiše harmonicky pulzoval. Arkána stále prosakovala, ale pomaleji, klidněji. Život v Trhlině bujel, ale už ne chaoticky. Ustálil se.
+
+Pro Svět nahoře to znamenalo jedno: Trhlina přestala být hrozbou a stala se příležitostí. Námořníci, kteří pluli kolem, si všimli, že mlha řídne. Někteří se odvážili přiblížit. Ve stěnách Trhliny se třpytily minerály, které nikde jinde neexistovaly. Na římsách rostly rostliny, které magicky svítily. Ze stěn vycházely zvuky, ne hrozivé, ale zvoucí.
+
+Zprávy se šířily. Obchodníci chtěli zisky. Dobrodruzi chttěli slávu. A ti, kteří neměli co ztratit, chtěli nové životy.
+
+Začala éra výprav do Trhliny.
+
+##### Draetir (rok ~370)
+
+Najít místo, kde se dalo vstoupit do Trhliny, nebylo jednoduché. Stěny kaňonu byly strmé, mokré od stoupající vody, pokryté arkánní vegetací, která nebyla vždy přátelská. Většina okraje Trhliny byla nepřístupná. Ale na jednom místě, kde se Trhlina mírně rozšiřovala, se nacházel výběžek pevniny, skalní výběžek, který sahal až k okraji propasti. A z něj, jako jediného vhodného místa, se dalo sestoupit.
+
+Tady, na tomto výběžku, vzniklo město Draetir.
+
+Zpočátku to byl jen tábor. Pár stanů, provizorní přístaviště pro lodě, sklad provazů a lan. Ale jak přibývalo výprav a vracely se s poklady (minerály, arkánní artefakty, vzácné materiály, o kterých se alchymistům ani nezdálo), rostlo i město. Téoté, Aardenští a další stavěli výtahy na provazech, později na kladkách a ozubených kolech. Lidé, Žijící, kteří mezi nimi žili a přinášeli své znalosti, pomohli s konstrukcí prvních vzducholodí, malých, nespolehlivých, ale dostatečných na to, aby dokázaly snést posádku o pár pater níže, než kam dosáhly ferraty a žebříky.
+
+Draetir se stal městem na kraji propasti. Doslova. Polovina města stála na pevné zemi, druhá polovina visela na okraji Trhliny, připevněná lany, řetězy a arkánně zpevněnými trámy. Bylo to místo, kde se potkávaly všechny rasy Světa, všechny motivace, všechny touhy. Saarští obchodníci, kteří chtěli minerály. Aardenští dobrodruzi, kteří neměli co ztratit. Lidé, Žijící, kteří hledali materiály pro své vesmírné lodě. A podivíni, kteří prostě chtěli vidět, co je tam dole.
+
+Sestup byl nebezpečný. Ferraty po stěnách, rozklížené výtahy, vzducholodě, které občas narážely do komplikovaných a členitých prostor. A čím hlouběji se člověk dostal, tím podivnější bylo prostředí. Výpravy se většinou držely v horních patrech, kde byly minerály nejdostupnější a nebezpečí relativně čitelné. Hlouběji se odvážili jen ti nejodvážnější. A ještě hlouběji... tam nikdo nešel. Kromě Raena a jeho družiny.
+
+Některé výpravy se nikdy nevrátily. Ne všechny zahynuly. Některé se usadily po cestě. Založily osady, místa, kde se arkána cítila silněji, kde vzduch voněl jinak, kde se člověk cítil jinak. Něco je tam drželo. Ne násilím, ale přitažlivostí. Postupně v Trhlině vznikla síť malých osad, zastávek na cestě dolů, míst, kde se dalo přespat, nakoupit zásoby, vyměnit příběhy. Ale čím hlouběji, tím řidší tyto osady byly. A pod určitou hranicí už nebylo nic. Jen ticho, mlha a tah směrem dolů.
+
+##### Gastové a jejich mlčení
+
+Gastové o Trhlině nevěděli protože se izolovali. Když se Drae zhroutil a na Svět přistáli Bohové, Gastové si to vyložili jako trest za své hříchy. Nejdřív Tarogg (jejich první experiment, který roztrhal Starý Svět), teď Drae (jejich druhý pokus o Elementa). Dvakrát se pokusili ovládnout arkánu v měřítku, které přesahovalo jejich schopnosti. Dvakrát to skončilo katastrofou.
+
+Gastové se stáhli za štítovou bouři, bariéru z arkány, která obklopovala jejich domovinu na jihozápadě. Nikdo skrze ni neprošel. Ani z jedné strany. Gastové se káli. Jejich řád, přísný a limitující, zakázal použití arkány v jakémkoli měřítku přesahujícím nejmenší osobní potřebu. Žili v malých komunitách, sdružených v arkánních řádech, a věnovali se meditaci a pokání.
+
+Svět o nich věděl jen z legend. Malá rasa mudrců, schovaná za neproniknutelnou bouří. Nikdo se o ně nezajímal, protože se k nim nikdo nedostal.
+
+Ale čas plynul. A s časem rostla mezi mladšími Gasty nespokojenost. Proč se kát za hříchy předků? Proč žít za bouří, když venku je celý Svět? Poslední desetiletí vzrůstá počet Gastů, kteří chtějí bouři překonat a prozkoumávat Svět. Staří řádoví mistři je drží zpátky. Zatím. Toto napětí mezi starými a mladými, mezi pokáním a zvědavostí, mezi strachem a touhou, hraje roli v samotném finále příběhu hráčů, kdy se družina rozhodne, zda Gasty kontaktovat, a tím jim otevřít cestu ven.
+
+---
+
+### Přílet Bohů ve vesmírných korábech
+
+*Rok cca 44–170 po Záři.*
+
+##### Kontext
+
+Svět se ještě vzpamatovává z pádu Drae a Saarské války. Válka s Yggdenem skončila před necelými čtyřiceti lety. Salvar je mrtvý, odplul do víru. Vennera je mrtvá, zavražděna Aardenským atentátníkem. Ale jejich odkaz žije a roste. Příběh lásky generála a princezny se stal legendou, která pomalu mění Saarskou kulturu. Starý válečnický étos ustupuje, nová generace Téotů je otevřenější, obchodní a občanská rada v Byrotriu posilují. Saar prosperuje, Yggden a Aarden se integrují do impéria, obchod bují.
+
+Mezitím se v Širých vodách děje něco podivného. Tam, kde padl Drae, je stále bouřlivý vír, kolem něj roste mlha a voda se obrací vzhůru. Námořníci to místo objíždějí. Zem se pomalu rozpadá od severu k jihu. Nikdo tomu nerozumí, ale nikdo se tím zatím příliš nezabývá. Saar má jiné starosti. Období explorace začíná. Drae vyřešil problém elementálů v Širých vodách a lodě mohou konečně plout svobodně.
+
+A právě v této době, kdy se Svět otevírá novým cestám, přilétají Bohové.
+
+##### Přílet (rok 44)
+
+Tři vesmírné koráby. Obrovské, podivné, něco, co Svět nikdy neviděl. Vstoupily do atmosféry nad severním Tuldenem, kontinentem, který dosud nikdo z obyvatel civilizovaného Světa neobjevil, protože Širé vody byly do pádu Drae neproniknutelné.
+
+Dva koráby přistály úspěšně na zamrzlé stepi severního Tuldenu, kde teploty klesají k minus třiceti a maxima dosahují minus deseti. Třetí koráb přistání nezvládl. Částečně se zničil a posádka uhořela. Přežilo jen pár stovek z tisíců na palubě. Pro Lidi, kteří překonali mezihvězdný prostor jen proto, aby ztratili třetinu svých lidí při dopadu na cizí planetu, to byla rána, ze které se dlouho vzpamatovávali.
+
+Vrak třetí lodi později očistili a upravili v památník. Dodnes stojí na zamrzlé stepi jako obrovská dominanta viditelná z velké dáli, monument toho, co stálo cestu ke hvězdám.
+
+Lidé byli první kolonizační výpravou své domovské planety. Čekali, že za nimi přiletí další koráby se zásobami a posilami. Nepřiletěly. Nikdy. Se svou domovskou planetou nemohou komunikovat kvůli vzdálenosti a jejich lodě nemohou opustit Svět kvůli vysoké únikové rychlosti, na kterou jejich pohonné systémy nestačí. Jsou ztraceni.
+
+Celkem přistály desetitisíce Lidí. Část se rozhodla nechat uspat v kryogenních komorách obou zbývajících lodí s nadějí, že domovská planeta je dříve nebo později najde a zachrání. Takzvaní Spící. Zbytek se rozhodl žít, prozkoumávat Svět a hledat způsob, jak jej opustit, ti se nazvývají Žijící.
+
+##### První lidské roky na Světě (rok 44–60)
+
+Severní Tulden je nehostinný. Zamrzlá step, minimum vegetace, pár domorodých kmenů připomínajících Téoty, ale primitivních a izolovaných, irelevantních pro další vývoj. Pro Lidi s jejich technologiemi to není smrtelné, ale ani pohodlné. Gravitace 1.5g zatěžuje kardiovaskulární systém, první generace trpí námahovou únavou a srdečními problémy. Pomáhají jednoduché exoskelety, které si přivezli. Postupně, překvapivě rychle, se těla adaptují. Reprodukce funguje lépe, než se čekalo, pomáhají kliniky uvnitř lodí.
+
+Větší problém je imunita. Místní patogeny jsou neznámé a Lidské imunitní systémy na ně nejsou připravené. Přicházejí cykly těžkých nemocí, karantény, záchytné stanice. Byli na to připraveni, měli protokoly pro kolonizaci, ale teorie a praxe jsou dvě věci. Populace klesá, než se stabilizuje.
+
+Žijící postupně migrují na jih. Jižní Tulden je teplejší, úrodnější, obyvatelnější. Zde, na pobřeží, zakládají město. Lidé mu říkají Port'desant, někdy zkráceně Pordesant. Saarští později celý kontinent pojmenují Tulden. Pro Lidi je to Desencie.
+
+Pordesant je zprvu provizorní. Stany, prefabrikované moduly z lodí, provizorní přístaviště. Hlavním zdrojem obživy je rybolov, když dojdou základní zásoby. Postupně se z něj stává město v úrovni srovnatelné se Saarskými, ale s jiným charakterem. Architektura připomíná starověký Řím s lehkým technologickým twistem, kamenné sloupy vedle kovových konstrukcí, akvadukt napájený lidskými čerpadly, brány s jednoduchými senzory. Lidé umí těžit suroviny v podzemí a toto tajemství si hlídají. Technologie nesdílejí, nebo jen ty primitivní a za vysoké ceny. Největší technologií, kterou postupně předají okolnímu Světu, budou vzducholodě.
+
+Je důležité pochopit, co Lidé jsou a co nejsou. Mají vesmírné lodě a dokázali překonat mezihvězdný prostor. Ale ztratili většinu infrastruktury. Nemají továrny, výrobní linky, zpracovatelský průmysl své domovské planety. Mají teoretické znalosti o vesmíru, fyzice, biologii, které dalece přesahují cokoli, co Svět zná. Ale prakticky žijí podobně jako Téoté. Umí věci, ale nemohou je pořádně reprodukovat. Jsou jako člověk, který ví, jak postavit letadlo, ale má k dispozici jen dřevo a provaz. Lidé nepřinesou průmyslovou revoluci. Přinesou střípky, vzducholodě, medicínské postupy, optické přístroje, a hlavně jiný pohled na svět a vesmír, koncept, který Svět nezná a nechápe.
+
+##### Setkání (rok 60–80)
+
+Saarští o příletu Bohů vědí od roku 44. Viděli záře a podivné tvary na obloze, slyšeli o tom od námořníků. Ale měli jiné starosti, explorace teprve začínala. Teprve když lodě začnou pravidelně plout Širými vodami, obeplují ze severu stále rostoucí Trhlinu a dorazí k Tuldenské pevnině.
+
+Setkání je šok pro obě strany.
+
+Saarští narazí na Pordesant a jeho obyvatele. Vidí tvory částečně podobné sobě, ale menší, kteří žijí v podivném městě s materiály a strukturami, které Téoté nikdy neviděli. Nejsou to domorodci. Jsou to bytosti z jiného světa. Pro Saarské, kteří nejsou náboženské impérium, ale jejichž kultura je prostoupena meditací a vírou ve vyšší moc, je to hluboký otřes. Bohové existují. A mají město na severu.
+
+Lidé jsou překvapeni jinak. Už ví, že na planetě žijí primitivní domorodci. Při přistání viděli vír v Širých vodách, věděli, že se tu děje něco zvláštního. Ale čekali jen další primitivní kmeny. Místo toho stojí před nimi civilizace s funkčním impériem, právním systémem, obchodní sítí a válečným uměním, které je převyšuje. Téoté jsou větší, silnější, přizpůsobení gravitaci, které Lidi drtí. Technologicky jsou Lidé napřed, ale fyzicky a početně jsou v absolutní nevýhodě.
+
+Komunikace je zpočátku nemožná. Dvě zcela odlišné jazykové soustavy, žádný společný referenční bod. Ale Lidé mají přístroje, analytické nástroje pro dekódování jazykových struktur, které si přivezli právě pro případ kontaktu s mimozemským životem. Pomocí nich dokáží porozumět základní Saarské řeči a od toho se odpíchnout. Jde to relativně rychle, ale skutečná komunikace, taková, která umožňuje politiku a diplomacii, přijde až později.
+
+Saarští Bohy uctívají po svém. Ne modlitbami, ale meditací a respektem. Obdivují technologie a vynálezy, které sami neznají. Chápou, že Lidé nejsou z tohoto Světa. Ale nerozumí konceptu vesmíru, jiných planet, mezihvězdného cestování. Pro ně je to magie jiného druhu. Postupně, jak komunikace pokračuje, se obraz mění. Bohové nejsou bohové. Jsou to ztroskotnanci. Mocní, ale bezmocní. Vědoucí, ale ztracení.
+
+##### Vystřízlivění a napětí (rok 80–120)
+
+Jak se komunikace zlepšuje a Saarští začínají chápat, kdo Lidé skutečně jsou, mění se i politická nálada. V Byrotriu se formují dva tábory.
+
+Na jedné straně stojí ti, kteří nesou odkaz Salvara a Vennery. Nová generace politiků, obchodníků a diplomatů, kteří věří v koexistenci, obchod a postupnou integraci. Pro ně jsou Lidé fascinující partneři, ne hrozba.
+
+Na druhé straně stojí konzervativci, především ve vojenské radě Byrotria. Pro ně jsou Lidé invazivní rasa, která se usadila na Tuldenské pevnině bez pozvání. Jsou malí počtem, ale jejich technologie jsou nebezpečné. Co když je jednou obrátí proti Saaru? A hlavně: proč by se Saar měl dělit o Svět s cizinci, když je dostatečně silný na to, aby si vzal, co chce?
+
+Hlavní postavou tohoto tábora je **Kaetar Veliký III.** Politik ve vojenské radě Byrotria, ne voják, ale stratég mocenských her. Rod Velikých má působivou vojenskou historii. Byli to Velicí, kdo kdysi sjednotil Saar, když byl roztříštěn na malé státečky. Kaetar cítí, že se Saar odklání od svých kořenů. Válečnický étos mizí, nahrazuje ho měkká diplomacie a obchod. Odkaz Salvara, který je pro novou generaci inspirací, je pro Kaetara důkazem úpadku. Generál, který se zamiloval do nepřátelské princezny a zastavil válku? Pro Kaetara je to slabost, ne hrdinství.
+
+Kaetar nechce otevřenou válku. Je politik, ne vojevůdce. Chce se zmocnit Lidských technologií, tichým tlakem, infiltrací, diplomatickým nátlakem. A pokud to nepůjde po dobrém, tak provokací, která donutí Byrotrium schválit vojenský zásah.
+
+##### Téasa z rodu Dlouhosrstých
+
+Proti Kaetarovi stojí **Téasa z rodu Dlouhosrstých**. Není přímou potomkyní Salvara, ale je mu příbuzná ve vzdálené linii. Rod Dlouhosrstých po Salvarově smrti nezanikl, naopak jeho jméno mu dodalo prestiž a politický kapitál.
+
+Téasa je mladá politička. Je chytrá, odvážná a nese jméno rodu, který pro Saar znamená víc než jen generála. Je to jméno, které říká: "válčili jsme, ale našli jsme lepší cestu". Téasa tomu věří. A vidí v Lidech příležitost nikoliv hrozbu.
+
+Ale vidí také, co Kaetar dělá. Vidí, jak manipuluje vojenskou radou, jak šíří strach z Lidských technologií, jak připravuje půdu pro konflikt, který Byrotrium jako celek neschválilo. A rozhodne se jednat.
+
+Téasa se stane dvojitou agentkou. Na Saarské straně je mladá politička z prestižního rodu, která se zajímá o vztahy s Lidmi. Na Lidské straně je kontakt, důvěrnice, někdo, kdo jim pomáhá pochopit Saarskou politiku a varuje je před hrozbami. Je to nebezpečné. Komunikace s Lidmi je stále obtížná, i s jejich přístroji jsou nuance těžko přeložitelné. A Kaetarovi lidé sledují každého, kdo se s Bohy stýká příliš často.
+
+Téasa je první Téotka, která se s Lidmi skutečně domluví na úrovni umožňující diplomacii. Ne přes přístroje a základní fráze, ale v plnohodnotné konverzaci. Stráví měsíce v Pordesantu, učí se jejich jazyk, jejich způsob myšlení. Oni se učí od ní. Je to pomalý, náročný proces, ale vytváří most, který zatím nikdo jiný nepostavil.
+
+##### Konflikt (rok 120–155)
+
+Kaetar udeří. Ne otevřeně, ale skrytě. Série provokací, incidentů na hranicích Lidského území, záhadných zmizení Saarských obchodníků, které se svede na Lidi. Vojenská rada požaduje vysvětlení. Lidé nemají co vysvětlovat, protože nic neudělali. Ale důkazy jsou přesvědčivé přestože sfabrikované.
+
+Konflikt, který následuje je zvláštní. Saar jako celek ji neodsouhlasil. Obchodní a občanská rada jsou proti. Ale vojenská rada pod Kaetarovým vedením jedná jednostranně, zaštiťuje se ochranou Saarských zájmů. Jsou to politikaření, intriky, falešné zprávy, manipulace.
+
+Zároveň je to i vnitřní konflikt Saaru. Část Téotů stojí za Kaetarem, věří jeho narativu o Lidské hrozbě. Část stojí proti, vidí v konfliktu jen promrhanou příležitost. A část stojí uprostřed, zmítána mezi strachem a rozumem.
+
+Skutečný ozbrojený konflikt trvá roky. Není to plná válka, Saar nemá zájem Lidi vyhladit (a Lidé nemají dost lidí na otevřenou válku). Jsou to šarvátky, námořní potyčky, obléhání Pordesantu, sabotáže. Lidé se brání svými technologiemi, ale nemohou si dovolit je plně nasadit, protože je nemohou nahradit. Každý vystřel, každý poškozený přístroj je nevratná ztráta.
+
+##### Odhalení a příměří (rok 155–170)
+
+Téasa po letech práce shromáždí dostatek důkazů o Kaetarových konspiracích. Falešné zprávy, zfabrikované incidenty, tajné rozkazy obcházející Byrotrium. Není to snadné. Pracuje s Lidmi, kteří jí pomáhají s analýzou komunikací a dokumentů, ale zároveň riskuje, že bude odhalena jako dvojitá agentka.
+
+Když důkazy předloží Byrotriu, je to politické zemětřesení. Kaetar je konfrontován se svými činy. Rod Velikých, kdysi synonymum sjednocení Saaru, je pošpiněn. Kaetar je uvězněn za zločiny konspirace, podvodu a zneužití vojenské autority. Ve věznici v severozápadním Saaru spáchá sebevraždu. Jeho smrt je tichá a nepůsobivá, přesný opak toho, jak se celý život stylizoval.
+
+Nastává příměří. Není to slavnostní mírová smlouva, spíš vyrozumění a uznání, že celý konflikt byl nelegitimní, neschválený Byrotriem jako celkem a rozpoutaný jedním mužem a jeho frakcí. Je to i obchodní dohoda. Saar nemá v Tuldenu zásadní zájem, kontinent je studený a chudý na zdroje, které by Téoty lákaly. Saarští tam pořádají průzkumné expedice, ale nezjišťují nic převratného.
+
+Lidé získávají volnost pohybu po Světě, i když jejich počty jsou oproti Téotským minimální. V lodích přistály pouhé desetitisíce a populace od té doby spíše klesala kvůli nemocem a adaptačním problémům. Žijící se postupně usazují i mimo Tulden, v Draetiru, v Saarských městech, všude kde mohou využít své znalosti pro výzkum a obchod. V Trhlině hledají vzácné materiály, které by jim umožnily postavit nové pohonné systémy a opustit Svět. Zatím marně.
+
+Spící zůstávají v kryogenních komorách obou zbývajících lodí na severním Tuldenu. Jsou politickým tématem mezi Lidmi. V průběhu staletí, jak nemoci a gravitace decimují populaci Žijících, porostou hlasy volající po probouzení Spících jako způsobu, jak regulovat úbytek. To ale otevře otázky lidských práv, smluv a souhlasů, které budou zdrojem konfliktů ještě dlouho po tom, co se vyřeší věci na povrchu.
+
+##### Téasa po konfliktu
+
+Téasa po odhalení Kaetara pokračuje v politice. Stane se ambasadorkou pro vztahy mezi Téoty a Lidmi, je tváří nové éry spolupráce. Ale není to trvalá kariéra. Po narození dětí odejde z veřejného života do ústraní a začne psát memoáry o setkání s Lidmi. Její knihy se stanou jedním z nejdůležitějších historických dokumentů éry, prvním pohledem zevnitř na to, jak vypadal kontakt dvou civilizací, co to stálo a co to znamenalo.
+
+---
 
 ### [VÝPRAVY DO TRHLINY, VÝPRAVA VĚHLASNÉHO RAENA A JEHO DRUŽINY, MÝTUS PRŮVODCE TRHLINOU JMÉNEM KARDINÁL]
 
