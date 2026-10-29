@@ -121,7 +121,7 @@ Souboje začínají určením iniciativy. Každý hráč hodí kostkou **d6** a 
 
 ###### Tah
 
-Tah je rozdělen na **4 fáze**. V rámci svého tahu hráč volí **střet nebo odpoutání, dobírá karty, hraje karty a vyhodnocuje efekty a brání se útoku nepřítele**. Na konci svého tahu musí hráč odhodit všechny (pakliže něco neříká jinak) své použité i nepoužité karty do odhazovacího balíčku. Vyhodnotí se Repurposed. Poté hraje vypravěč za nepřítele.
+Tah je rozdělen na **4 fáze**. V rámci svého tahu hráč volí **střet nebo odpoutání, dobírá karty, hraje karty a vyhodnocuje efekty a brání se útoku nepřítele**. Na konci svého tahu musí hráč odhodit všechny (pakliže něco neříká jinak) své použité i nepoužité karty do odhazovacího balíčku. Vyhodnotí se Repurposed. Nepřítel útočí ještě v tahu hráče, před Repurposed (viz Postup, krok 3).
 
 ###### Kolo
 
@@ -179,7 +179,7 @@ Souboj se odehrává ve dvou zónách: **Blízko** a **Daleko**. Zóny určují,
    1. Hráč (ne)hraje libovolný počet karet  
       * Efekty se vyhodnotí ihned (damage, heal, speciální).  
       * Pokud karta vyžaduje hod kostkou, hráč hodí a vyhodnotí.  
-      * Obranné karty se v akční fázi **NEHRAJÍ** - drží se v ruce na reaktivní obranu (viz krok 4)  
+      * Obranné karty se v akční fázi **NEHRAJÍ** - drží se v ruce na reaktivní obranu (viz krok 3)  
 
 3. **Fáze nepřítele** (pouze ve střetu)  
    
@@ -264,7 +264,7 @@ Zahrané karty se odkládají na **separátní hromádku** v bojišti. Po skonč
 
 ## Kostky
 
-Kostky slouží jako variace výsledku. Standardně se používá d6, ale může se objevit také d12\. Hodnota na kostce se používá přímo.
+Kostky slouží jako variace výsledku. Standardně se používá d6, ale může se objevit také d12\. Hodnota na kostce se používá přímo. Pro **Hod na stat** (pouze RP) se používá **d20** (viz Hod na stat).
 
 Používají se taktéž jako vypravěčův nástroj pro rozhodnutí a souboje. `Toto musím lépe specifikovat (např. hráč má trait na přesvědčování - háže k tomu vypravěč?)`
 
