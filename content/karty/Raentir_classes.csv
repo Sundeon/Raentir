@@ -1,6 +1,16 @@
-Jméno,Typ,Dice,AbilityName,Efekt,Text2,Image,RP,Base,logo
-Drtivý úder,Válečník,,Rozmáchnutí,"Pokud tento útok sníží HP nepřítele pod polovinu, +2 dmg navíc",,,,4,https://i.imgur.com/aIgxOBU.png
-Bojový pokřik,Válečník,,Nezdolnost,Do konce tohoto kola máš +2 blok na všechny obranné karty,,,,,https://i.imgur.com/aIgxOBU.png
-Inspirující melodie,Bard,,Inspirace,Zvol spoluhráče — lízne 1 kartu navíc na začátku příštího tahu,,,,,https://i.imgur.com/TEh2VuO.png
-Rozptýlení,Bard,d6: 1-3: žádný efekt / 4-6: „Vedle”,Klamný tón,Vedle: Nepřítel má -2 útok tento tah,,,,,https://i.imgur.com/TEh2VuO.png
-END,,,,,,,,,
+Jméno,Typ,Dice,AbilityName,Efekt,Text2,Image,RP,Base,logo,TypKarty,Tag,Limit,Úroveň
+Drtivý úder,Válečník,,Rozmáchnutí,"Pokud tento útok sníží HP nepřítele pod polovinu, +2 dmg navíc",,,,4,https://i.imgur.com/aIgxOBU.png,Útočná,Zbraň,,
+Bojový pokřik,Válečník,,Nezdolnost,Do konce tohoto kola máš +2 blok na všechny obranné karty,,,,,https://i.imgur.com/aIgxOBU.png,Speciální,,2,I
+Inspirující melodie,Bard,,Inspirace,Zvol spoluhráče: lízne 1 kartu navíc na začátku příštího tahu a dostane 1 Repurposed žeton,,,,,https://i.imgur.com/TEh2VuO.png,Speciální,Melodie,,
+Rozptýlení,Bard,d6: 1-3: žádný efekt / 4-6: „Vedle”,Klamný tón,Vedle: Nepřítel má -2 útok tento tah,,,,,https://i.imgur.com/TEh2VuO.png,Speciální,Tón,,
+Čepel K.,Válečník,,Dvě zbraně,"Když tento tah zahraješ Zbraň z ruky i Čepel K., ta zahraná druhá má +1 dmg",,,,2,https://i.imgur.com/aIgxOBU.png,Útočná,Zbraň,2,I
+Trujillo,Válečník,,Roztočení,"Roztoč se a máchej zbraní. Pokud jsi tento tah zahrál Čepel K. i Zbraň z ruky, +3 dmg",,,,2,https://i.imgur.com/aIgxOBU.png,Útočná,,1,I
+Odveta,Válečník,,Protiúder,"Pokud zablokuješ veškerý dmg, získej 2 Repurposed žetony",,,,2,https://i.imgur.com/aIgxOBU.png,Obranná,,1,I
+Meditace za padlé,Válečník,,Meditace,Vyléči si 4 HP. Lze hrát i v Odpoutání,,,,,https://i.imgur.com/aIgxOBU.png,Speciální,,1,I
+Balada o Raenovi,Bard,,Finále,"+3 dmg za každou Melodii, kterou jsi tento souboj zahrál. Počítej kostkou d6 položenou na této kartě (max 6). Pouze ve Střetu",,,,2,https://i.imgur.com/TEh2VuO.png,Útočná,,1,I
+Come together!,Bard,,Shromáždění,Pouze v Odpoutání. Přesuň 1 hráče do své zóny,,,,,https://i.imgur.com/TEh2VuO.png,Speciální,Melodie,2,I
+Ukolébavka,Bard,,Uspání,"Pouze v Odpoutání a proti 3 a více nepřátelům. Nepřátelé příští kolo neútočí, fáze se přesto posune",,,,,https://i.imgur.com/TEh2VuO.png,Speciální,Melodie,1,I
+Silný refrén,Bard,,Opakování,"Zopakuj efekt Melodie, kterou jsi tento tah zahrál z ruky",,,,,https://i.imgur.com/TEh2VuO.png,Speciální,Melodie,2,I
+Spojené ruce,Bard,,Dar,Předej až 3 své Repurposed žetony spoluhráči,,,,,https://i.imgur.com/TEh2VuO.png,Speciální,,2,I
+Báchorky,Bard,,Útěcha,Vyléči 3 HP sobě nebo spoluhráči,,,,3,https://i.imgur.com/TEh2VuO.png,Záchranná,,2,I
+END,,,,,,,,,,,,,
